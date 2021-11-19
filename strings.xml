@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Contact Form</string>
+
+    <!-- Field Names -->
+    <string name="firstName">First Name:</string>
+    <string name="lastName">Last Name:</string>
+    <string name="addressLine1">Address Line 1:</string>
+    <string name="addressLine2">Address Line 2:</string>
+    <string name="city">City:</string>
+    <string name="state">State:</string>
+    <string name="zipCode">Zip Code:</string>
+    <string name="emailAddress">Email:</string>
+    <string name="homePhone">Home:</string>
+    <string name="cellPhone">Cell:</string>
+
+    <!-- Button Names -->
+    <string name="clearButton">Clear</string>
+    <string name="submitButton">Submit</string>
+</resources>
