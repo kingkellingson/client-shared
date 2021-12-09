@@ -13,7 +13,7 @@
     <string name="homePhone">Home:</string>
     <string name="cellPhone">Cell:</string>
 
-    <!-- Button Names -->
+    <!-- Button Names --> 
     <string name="clearButton">Clear</string>
     <string name="submitButton">Submit</string>
 </resources>
